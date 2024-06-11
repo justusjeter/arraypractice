@@ -1,12 +1,12 @@
-// Array of group members
+// group members
 const groupMembers = ["Justus", "Lexie", "Rodale", "Sabah"];
 console.log("Group Members:", groupMembers);
 
-// Array of different types of foods
-const foods = ["Pizza", "Sushi", "Burger", "Salad", "Pasta", "Tacos", "Curry", "Steak", "Ice Cream", "Fruit"];
+// foods
+const foods = ["Pizza", "Wings", "Burger", "Salad", "Pasta", "Tacos", "Queso Dip", "Steak", "Ramen", "Burritos"];
 console.log("Foods:", foods);
 
-// Multidimensional array with state information
+// multidimensional 
 const statesInfo = [
     ["Virginia", "Richmond", "Cardinal"],
     ["Maryland", "Annapolis", "Baltimore Oriole"],
