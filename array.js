@@ -18,4 +18,4 @@ const statesInfo = [
 ];
 
 console.log("States Information:");
-statesInfo.forEach(state => console.log("State:", state[0], "| Capital:", state[1], "| State Bird:", state[2]));;
+statesInfo.forEach(state => console.log("State:", state));
